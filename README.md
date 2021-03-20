@@ -1,10 +1,12 @@
 # Temporizador-99-botoes
 
-**Ferramentas ultilizadas:
+**Ferramentas ultilizadas:**
 
 *PIC16F887*
-*cadsimu
-*Mplabx ide v5.40
+
+*cadsimu*
+
+*Mplabx ide v5.40*
 
 Ultilização do PORTD e PORTB para os dois displays
 
