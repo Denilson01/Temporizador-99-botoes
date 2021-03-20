@@ -12,6 +12,6 @@ Temporizador em loop com dois digitos, com botões para ajuste de tempo.
 
 *Compilador XC8;*
 
-Ultilização do PORTD e PORTB para os dois displays
+Ultilização do PORTD e PORTB para os dois displays de 7 segmentos.
 
 Ultilização do PORTCbits c0;c1;c2;c3 para botões de ajuste.
